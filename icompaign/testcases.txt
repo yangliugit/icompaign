@@ -1,0 +1,5 @@
+TestLogin.py
+TestShopTaskCreate.py
+TestShopTaskAudit.py
+#TestShopTaskAuditRefuse.py
+TestShopTaskPool.py
